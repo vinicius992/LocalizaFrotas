@@ -1,0 +1,10 @@
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Intra.deps.json
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Intra.dll
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\bin\Debug\netcoreapp3.1\Localiza.Frotas.Intra.pdb
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.AssemblyInfo.cs
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.dll
+C:\Users\vinic\source\repos\Localiza.Frotas\Localiza.Frotas.Intra\obj\Debug\netcoreapp3.1\Localiza.Frotas.Intra.pdb
